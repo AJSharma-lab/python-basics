@@ -1,2 +1,2 @@
 # python-basics
-Python basic programs to learn and hands-on python
+Basic Python programs to learn and hands-on Python
